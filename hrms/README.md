@@ -1,0 +1,2 @@
+# hrms
+This Human Resource Management System (HRMS) is a full-stack application designed to streamline HR operations. It includes employee onboarding, profile management, and document uploads, along with modules for attendance tracking, reporting, and task management. The system provides a responsive dashboard for seamless access across devices, ensuring efficient workforce management. Built with React.js (frontend), Spring Boot (backend), and PostgreSQL (database), the HRMS delivers a robust and scalable solution for modern HR needs.
